@@ -1,0 +1,985 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  ls =latr
+    5  ls -latr
+    6  open .bash
+    7  open .bashrc 
+    8  clear
+    9  passwd
+   10  clear
+   11  passwd
+   12  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+   13  ls
+   14  del amazon_reviews_us_Books_v1_02.tsv.gz 
+   15  rm amazon_reviews_us_Books_v1_02.tsv.gz 
+   16  ls
+   17  git --version
+   18  mkdir worksheet1
+   19  ls
+   20  cd worksheet1/
+   21  git init
+   22  ping github.com
+   23  ls
+   24  open wget-log 
+   25  cler
+   26  clear
+   27  ls
+   28  rmdir worksheet1/
+   29  cd worksheet1/
+   30  ls
+   31  rmdir worksheet
+   32  cd ..
+   33  rm -r worksheet1/
+   34  ls
+   35  mkdir Worksheet1
+   36  ls
+   37  cd Worksheet1/
+   38  git init
+   39  git branch
+   40  ls
+   41  git status
+   42  clear
+   43  history > cmds.log
+   44  ls
+   45  open cmds.log 
+   46  ls
+   47  git commit -m "my first commit"
+   48  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   49  git push -u origin main
+   50  git push -u origin master
+   51  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   52  git sstatus
+   53  git status
+   54  clera
+   55  clear
+   56  ks
+   57  cd .. 
+   58  ls
+   59  rm -r Worksheet1/
+   60  ls
+   61  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   62  clear
+   63  ls
+   64  mkdir Worksheet1
+   65  ls
+   66  cd Worksheet1/
+   67  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   68  ls
+   69  git status
+   70  git init
+   71  git status
+   72  vi myFile.txt
+   73  ls
+   74  cd Worksheet1/
+   75  ls
+   76  git rm myFile.txt 
+   77  ls
+   78  git commit -m "deleted my txt file"
+   79  git push
+   80  ls
+   81  EXIT
+   82  exit
+   83  cd Worksheet1/
+   84  gitinit
+   85  git init
+   86  git branch
+   87  touch myTest.txt
+   88  ls
+   89  git commit -m "my first commit"
+   90  git remote add origin https://github.com/amarashifar/Worksheet1.git
+   91  git status
+   92  git add myTest.txt 
+   93  ls
+   94  ls -lart
+   95  git push -u origin main
+   96  git push -u origin master
+   97  git push -u origin main
+   98  git push -f origin main
+   99  clear
+  100  git branch -M main
+  101  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  102  git push -u origin main
+  103  git push -u origin master
+  104  ls
+  105  cd ..
+  106  ls
+  107  cd Worksheet1/
+  108  git init
+  109  git commit -m "my first commit"
+  110    git config --global user.email "you@example.com"
+  111    git config --global user.email "amiralimarashifar@gmail.com"
+  112  git commit -m "my first commit"
+  113  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  114  git push -u origin master
+  115  git status
+  116  git push -u origin maib
+  117  git push -u origin main
+  118  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  119  git push -u origin main
+  120  git config --global push.autoSetupRemote true
+  121  git push
+  122  ls
+  123  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  124  cd ..
+  125  ls
+  126  rmdir -r Worksheet1/
+  127  rm -r Worksheet1/
+  128  lls
+  129  ls
+  130  clear
+  131  rm -r Worksheet1/
+  132  ls
+  133  rm -p -v Worksheet1/
+  134  rmdir Worksheet1/
+  135  rmdir -r Worksheet1/
+  136  rm -r Worksheet1/
+  137  cd Worksheet1/
+  138  ls
+  139  rm .git/
+  140  cd ..
+  141  rm -r Worksheet1/
+  142  ls
+  143  clear
+  144  mkdir Worksheet1
+  145  cd Worksheet1/
+  146  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  147  git init
+  148  git add test.txt
+  149  git add README.md
+  150  git commit -m "my first commit"
+  151  git config --global user.name "amarashifar"
+  152  git commit -m "my first commit"
+  153  touch myFile.txt
+  154  ls
+  155  git add myFile.txt 
+  156  git commit -m "my full commit"
+  157  git status
+  158  git remote add origin https://github.com/amarashifar/Worksheet1.git
+  159  git push -u origin main
+  160  git push -u origin master
+  161  ls
+  162  git branch
+  163  history > cmds.log
+  164  ls
+  165  git commit -m "Added the cmd.log file"
+  166  git add cmds.log 
+  167  git commit -m "Added the cmd.log file"
+  168  git push -u master
+  169  git push -u main
+  170  ls
+  171  git push
+  172  ls
+  173  cd Worksheet1/
+  174  ls
+  175  rm myFile.txt 
+  176  ls
+  177  git commit -m "deleted text file"
+  178  git push
+  179  ls
+  180  git push
+  181  ls
+  182  mkdir a1
+  183  ls
+  184  cd a1/
+  185  ls
+  186  script a1.txt
+  187  pwd
+  188  %PATH%
+  189  cd ..
+  190  ls
+  191  cd ..
+  192  ls
+  193  cd ..
+  194  ls
+  195  cd ..
+  196  ls
+  197  cd home/
+  198  LS
+  199  ls
+  200  cd ahmad/
+  201  cd amirali/
+  202  ls
+  203  pwd
+  204  vi a1.txt
+  205  ls
+  206  cd a1/
+  207  ls
+  208  open a1.txt 
+  209  rm -r a1.txt 
+  210  ls
+  211  script a1.txt
+  212  pwd
+  213  cd ..
+  214  pwd
+  215  id
+  216  id -g
+  217  uid -n
+  218  uid -n -u -g
+  219  echo $UID
+  220  id -u amirali 
+  221  groups
+  222  cd ..
+  223  groups
+  224  cd ..
+  225  ls
+  226  cd home/
+  227  groups
+  228  id -nG
+  229  getent group
+  230  cd amirali/
+  231  ls
+  232  getent group
+  233  clear
+  234  ls
+  235  cd a1/
+  236  mkdir temp
+  237  less a1.txt 
+  238  ls
+  239  cd a1/
+  240  ls
+  241  open a1.txt 
+  242  git init
+  243  git commit -m "first commit"
+  244  git add
+  245  git add a1.txt 
+  246  git branch -M main
+  247  git remote add origin https://github.com/amarashifar/Assignment1.git
+  248  git push -u origin main
+  249  git push -u origin master
+  250  ls
+  251  git push 
+  252  git push -u origin master
+  253  ls
+  254  git add a1.txt 
+  255  git add temp/
+  256  git commit -m "first commit"
+  257  git remote add origin https://github.com/amarashifar/Assignment1.git
+  258  git push -u origin master
+  259  git push -u origin main
+  260  mv temp2 temp3
+  261  ls
+  262  cp -r temp3 temp
+  263  mkdir temp2
+  264  mkdir temp3
+  265  mv temp2 temp3
+  266  ls
+  267  cd temp3
+  268  ls
+  269  cd ..
+  270  cp -r temp3 temp
+  271  chmod +x temp
+  272  cp -r temp3 temp
+  273  ls
+  274  cd temp
+  275  ls
+  276  cd ..
+  277  ls -a -l
+  278  cd..
+  279  cd 
+  280  ls
+  281  ls -l -a
+  282   cd ..
+  283  ls
+  284  cd ..
+  285  ls
+  286  cd proc/
+  287  ls
+  288  ls /prpc
+  289  ls /proc
+  290  cd meminfo
+  291  grep meminfo 
+  292  cd meminfo
+  293  cd ..
+  294  cat proc/meminfo 
+  295  grep proc/meminfo 
+  296  cd proc/
+  297  ls
+  298  cat proc/meminfo 
+  299  cd ..
+  300  cat proc/meminfo 
+  301  cat proc/cpuinfo 
+  302  cd proc/
+  303  head meminfo 
+  304  tail meminfo 
+  305  head cpuinfo 
+  306  tail cpuinfo 
+  307  cd a1/
+  308  less a1.txt
+  309  open a1.txt 
+  310  push a1.txt 
+  311  commit -m "more changes"
+  312  git init
+  313  git 
+  314  clear
+  315  ls
+  316  git commit -m "more changes"
+  317  git push
+  318  script at.txt
+  319  rm at.txt 
+  320  cd 
+  321  ls
+  322  rm a1.txt 
+  323  cd a1/
+  324  ls
+  325  rm -r temp3/
+  326  ls
+  327  script a1.txt
+  328  git commit -m "more questions answered"
+  329  git add temp
+  330  git add temp3
+  331  git add a1.txt 
+  332  git push
+  333  script a1.txt 
+  334  cat a1.txt 
+  335  clear
+  336  mkdir A1
+  337  ls
+  338  mkdir A1
+  339  ls
+  340  cd A1/
+  341  ls
+  342  cd 
+  343  pwd
+  344  cd ..
+  345  pwd
+  346  cd 
+  347  id amirali 
+  348  id tuts
+  349  mkdir temp
+  350  ls
+  351  chmod -x temp/
+  352  cd temp/
+  353  ls
+  354  ls -l
+  355  clear
+  356  ls
+  357  cd a`
+  358  cd a1/
+  359  ls
+  360  cd ..
+  361  script a1.txt
+  362  chmod -x temp
+  363  chmod -xtemp
+  364  chmod -x temp
+  365  ls
+  366  cd a1/
+  367  ls
+  368  chmod -x temp/
+  369  ls
+  370  ls -l
+  371  chmod +x temp/
+  372  ls
+  373  ls -l
+  374  chmod -x temp/
+  375  cd temp/
+  376  ls
+  377  ls -l
+  378  cd temp/
+  379  lss
+  380  ls
+  381  mkdir temp2
+  382  mkdir temp3
+  383  cp -r temp2 temp3
+  384  ls
+  385  cd temp3/
+  386  ls
+  387  mv -r temp2 temp3
+  388  mv temp2 temp3
+  389  ls
+  390  cd ..
+  391  ls
+  392  rm -r temp2/
+  393  rm -r temp3/
+  394  ls
+  395  mkdir temp2
+  396  mkdir temp3
+  397  ls
+  398  cd a1/
+  399  ls
+  400  head a1.txt 
+  401  ls
+  402  rm -r a1/
+  403  cd a1/
+  404  ls
+  405  clear
+  406  ls
+  407  cd ..
+  408  ls
+  409  cd a1/
+  410  git init
+  411  script a1.txrt
+  412  rm a1.txrt 
+  413  clear
+  414  ls
+  415  script a1.txt
+  416  cd ..
+  417  ls
+  418  script a1.txt
+  419  ls
+  420  mv a1.txt A1/
+  421  ls
+  422  rm -r A1
+  423  ls
+  424  clear
+  425  script a1.txt
+  426  cd ..
+  427  mv a1.txt A1
+  428  ls
+  429  cd 
+  430  ls
+  431  clear
+  432  mv a1.txt A1/
+  433  ls
+  434  cd A1/
+  435  la
+  436  cat a1.txt 
+  437  git init
+  438  git add a1.txt 
+  439  git commit -m "first commit"
+  440  git remote add origin https://github.com/amarashifar/Assignment1.git
+  441  git push -u origin master
+  442  clear
+  443  script a2.txt
+  444  ls
+  445  nano a2.txt 
+  446  tail a2.txt 
+  447  clerar
+  448  clear
+  449  script a3.txt
+  450  nano a3.txt 
+  451  ls
+  452  cat a3.txt 
+  453  clear
+  454  git commit -m "answered more questions" 
+  455  git add a2.txt, a3.txt 
+  456  git add a2.txt 
+  457  git add a3.txt 
+  458  cd 
+  459  ls
+  460  cd A1/
+  461  git commit -m "added more files"
+  462  git push
+  463  script a4.txt
+  464  chmod -x +wr
+  465  chmod -xwr
+  466  chmod --help
+  467  clear
+  468  nano a4.txt 
+  469  clear
+  470  ls
+  471  mkdir temp2
+  472  mkdir temp3
+  473  mv -r temp2 temp3
+  474  mv temp2 temp3
+  475  ls
+  476  cd temp3
+  477  ld
+  478  ls
+  479  cp -r temp3 temp
+  480  cp temp3 temp
+  481  cd ..
+  482  cp -r temp3 temp
+  483  ls
+  484  cp temp3 temp
+  485  cp -r temp3 temp
+  486  cd temp
+  487  chmod +x temp
+  488  cp -r temp3 temp
+  489  ls
+  490  mkdir temp2
+  491  mkdir temp3
+  492  mv temp2 temp3
+  493  chmod +x temp
+  494  ls
+  495  cp -r temp3 temp
+  496  ls
+  497  cd temp
+  498  ls
+  499  cd temp3/temp2/
+  500  ls
+  501  cd ..
+  502  ls
+  503  cd
+  504  ls
+  505  cd ..
+  506  ls
+  507  cd ..
+  508  ls
+  509  cd proc/
+  510  ls
+  511  head meminfo 
+  512  head cpuinfo 
+  513  cd
+  514  cd ../..
+  515  cd proc/
+  516  head meminfo 
+  517  cd ../..
+  518  cd ..
+  519  cd proc/
+  520  cat cpuinfo 
+  521  head cpuinfo 
+  522  tail cpuinfo 
+  523  cd A1/
+  524  ls
+  525  script a5.txt
+  526  nano a5.txt 
+  527  clear
+  528  rm a5.txt 
+  529  ls
+  530  cd temp
+  531  ls
+  532  rm -r temp3/
+  533  cd ..
+  534  rm -r temp3/
+  535  ls
+  536  clear
+  537  chmod -x temp/
+  538  ls
+  539  script a5.txt
+  540  ls
+  541  nano a5.txt 
+  542  emacs a5.txt 
+  543  head a5.txt 
+  544  clear
+  545  script a6.tt
+  546  rm a6.tt 
+  547  script a6.txt
+  548  clear
+  549  nano a6.txt 
+  550  tail a6.txt 
+  551  cd ..
+  552  cd proc/
+  553  ls
+  554  clear
+  555  cd 
+  556  ls
+  557  cd A1/
+  558  ls
+  559  script a7.txt
+  560  nano a7.txt 
+  561  clear
+  562  script a8.txt
+  563  clear
+  564  nano a8.txt 
+  565  ls
+  566  cp /home/test/A1/downloaded_hashtags_extend.csv
+  567  cd ../..
+  568  cd ..
+  569  ls
+  570  cd home/
+  571  cd test
+  572  ls
+  573  cd test/A1
+  574  cd
+  575  ls
+  576  cd A1/
+  577  ls
+  578  git add -a
+  579  git add -A
+  580  git commit -m "another commit to save files"
+  581  git push
+  582  cp /home/test/A1/downloaded_hashtags_extend.csv
+  583  cp /home/test/A1/
+  584  cp /home/test/A1/downloaded_hashtags_extend.sv temp
+  585  ls
+  586  cd ../..
+  587  cd A1/
+  588  ls
+  589  cd temp3/temp2/
+  590  ls
+  591  pwd
+  592  ls
+  593  cd A1/
+  594  ls
+  595  clear
+  596  ls
+  597  cp /home/test/A1/downloaded_hashtags_extend.csv
+  598  cp /home/test/A1/downloaded_hashtags_extend.csv A!
+  599  cp /home/test/A1/downloaded_hashtags_extend.csv A1
+  600  cd ..
+  601  ls
+  602  cp /home/test/A1/downloaded_hashtags_extend.csv A1
+  603  cd ..
+  604  ls
+  605  cd test/
+  606  cd /home/test/A1/downloaded_hashtags_extend.csv
+  607  cd test/
+  608  cd ..
+  609  cd
+  610  cd /home/test/A1/downloaded_hashtags_extend.csv
+  611  cd ...
+  612  cd ..
+  613  cd //home/amirali/A1/temp3/temp2
+  614  clear
+  615  cd ..
+  616  cd
+  617  cd ..
+  618  cd test/
+  619  chmod -x test/
+  620  ls
+  621  cd test/
+  622  chmod +xwr test/
+  623  cd test/
+  624  cd ..
+  625  cd am
+  626  ls
+  627  cd 
+  628  cp /home/amirali/A1/temp3/temp2
+  629  /home/test/A1/downloaded_hashtags_extend.csv
+  630  cp /home/test/A1/downloaded_hashtags_extend.csv A1
+  631  ls
+  632  cp /home/test/A1/downloaded_hashtags_extend.csv A1
+  633  cd ..
+  634  cd test/
+  635  cp /home/test/A1/downloaded_hashtags_extend.csv A1
+  636  cd  /home/test/A1/downloaded_hashtags_extend.csv
+  637  cd /home/test/A1
+  638  ;s
+  639  ls
+  640  ls
+  641  cd A1/
+  642  ls
+  643  clear
+  644  cp /home/test/
+  645  cp /home/test/A1
+  646  cd ..
+  647  cd 
+  648  cd..
+  649  cd ..
+  650  cd test/
+  651  ls
+  652  cp ~test/A1/downloaded_hashtags_extend.csv
+  653  cp /home/test/A1/downloaded_hashtags_extend.csv A1
+  654  ls
+  655  cd A1
+  656  cp  ~test/A1/downloaded_hashtags_extend.csv
+  657  cd ..
+  658  cp  ~test/A1/downloaded_hashtags_extend.csv A1/
+  659  ls
+  660  cd A1/
+  661  ls
+  662  ls -al *.csv
+  663  du -sh downloaded_hashtags_extend.csv 
+  664  ls -sh
+  665  ls -sh *.csv
+  666  wc -l downloaded_hashtags_extend.csv 
+  667  wc
+  668  wc downloaded_hashtags_extend.csv 
+  669  cd ..
+  670  cd test
+  671  ls
+  672  ls ltr
+  673  clear
+  674  cd A1
+  675  ls
+  676  clear
+  677  cd ..
+  678  cd amirali/
+  679  la
+  680  clear
+  681  ls
+  682  cd A1/
+  683  $ cp  ~test/A1/downloaded_hashtags_extend.csv .
+  684  cp  ~test/A1/downloaded_hashtags_extend.csv .
+  685  ls
+  686  rm downloaded_hashtags_extend.csv 
+  687  ls
+  688  clear
+  689  script a9.txt
+  690  clear
+  691  ls
+  692  rm -r A1
+  693  ls
+  694  rm a9.txt 
+  695  script a9.txt
+  696  clear
+  697  emac a9.txt 
+  698  nano a9.txt 
+  699  git add -A
+  700  git commit -m "added more"
+  701  git push
+  702  ls
+  703  git push
+  704  git pull
+  705  grep -i -o great downloaded_hashtags_extend.csv 
+  706  grep -i -c great downloaded_hashtags_extend.csv 
+  707  wc -m great downloaded_hashtags_extend.csv 
+  708  wc "great" downloaded_hashtags_extend.csv 
+  709  wc downloaded_hashtags_extend.csv 
+  710  grep -i -c great downloaded_hashtags_extend.csv 
+  711  ls
+  712  cd A1/
+  713  ls
+  714  grep great downloaded_hashtags_extend.csv 
+  715  grep -i great downloaded_hashtags_extend.csv 
+  716  grep -o  -i great downloaded_hashtags_extend.csv 
+  717  grep -c -i great downloaded_hashtags_extend.csv 
+  718  grep -c great downloaded_hashtags_extend.csv 
+  719  grep -c GREAT downloaded_hashtags_extend.csv 
+  720  grep -c Great downloaded_hashtags_extend.csv 
+  721  clear
+  722  script a10.txt
+  723  rm a10.txt 
+  724  clear
+  725  script a10.txt
+  726  nano a10.txt 
+  727  rm a10.txt 
+  728  script a10.txt
+  729  clear
+  730  file downloaded_hashtags_extend.csv 
+  731  clear
+  732  ls
+  733  ls
+  734  cd A1/
+  735  ls
+  736  git pull
+  737  git commit -m "added more"
+  738  git push
+  739  file downloaded_hashtags_extend.csv 
+  740  cd A1/
+  741  file downloaded_hashtags_extend.csv 
+  742  clear
+  743  ls
+  744  script a11.txt
+  745  nano a11.txt 
+  746  clear
+  747  clea
+  748  clear
+  749  ls
+  750  iconv -f downloaded_hashtags_extend.csv -t ascii/TRANSLIT
+  751  iconv -f utf-8 -t ascii//TRANSLIT
+  752  iconv -f utf-8 -t ascii//TRANSLIT downloaded_hashtags_extend.csv 
+  753  ls
+  754  cd A1/
+  755  ls
+  756  iconv -f utf-8 -t ascii//TRANSLIT
+  757  iconv -f utf-8 -t ascii//TRANSLIT downloaded_hashtags_extend.csv 
+  758  clear
+  759  ls
+  760  script a12.txt
+  761  head downloaded_hashtags_extend.csv 
+  762  cd A1/
+  763  cut -f downloaded_hashtags_extend.csv | sort | uniq | wc -l
+  764  cut -f downloaded_hashtags_extend.csv
+  765  cd A1/
+  766  clear
+  767  awk -F, 'NR>{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  768  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  769  awk -F  downloaded_hashtags_extend.csv |sort -u |wc -l
+  770  cut -d, -f1 downloaded_hashtags_extend.csv | sort -u | wc -l
+  771  awk -F, 'NR>1{print $2}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  772  awk -F, 'NR>1{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  773  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  774  cd A1/
+  775  wc -l a1.txt 
+  776  cat a1.txt 
+  777  cat a9.txt
+  778  wc -l a9.txt 
+  779  wc a9.txt 
+  780  egrep "john.*mary" a9.txt 
+  781  git add -A
+  782  git commit -m "almost finished"
+  783  git push
+  784  git commit -m "More files"
+  785  git push
+  786  git pull
+  787  clear
+  788  ls
+  789  cat a9.txt 
+  790  iconv -f utf-8 -t ascii//TRANSLIT downloaded_hashtags_extend.csv 
+  791  ls
+  792  cd A1/
+  793  ls
+  794  cat a1
+  795  ca a11.txt 
+  796  cat a11.txt .
+  797  cat a11.txt 
+  798  rm a12.txt 
+  799  ls
+  800  script a12.tx
+  801  rm a12.tx 
+  802  script a12.txt
+  803  cat a12.txt 
+  804  git add a12.txt
+  805  git commit -m "changed a12.txt
+  806  git commit -m "changed a12.txt"
+  807  git push
+  808  git pull
+  809  clear
+  810  awk -F, 'NR>{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  811  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  812  awk -F, 'NR>1{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  813  awk -F, 'NR>1{print $3}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  814  awk -F, 'NR>1{print $2}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  815  awk -F 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  816  less a13.txt 
+  817  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  818  awk -F, 'NR>1{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  819  awk -F, 'NR>1{print $2}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  820  ls
+  821  cd A1/
+  822  ls
+  823  script a13.txt
+  824  cat a13.txt 
+  825  clear
+  826  rm a13.txt 
+  827  script a13.txt
+  828  nanp a13.txt 
+  829  nano a13.txt 
+  830  git add -A
+  831  git commit -m "last question"
+  832  git push
+  833  clear
+  834  rm a13.txt 
+  835  script a13.txt
+  836  rm a13.txt 
+  837  script a13.txt
+  838  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  839  awk -F, 'NR>1{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  840  awk -F, 'NR>1{print $2}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  841  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  842  awk -F 'NR>{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  843  awk -F, 'NR>{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  844  awk -F, 'NR>1{print $1}
+  845  lear
+  846  clear
+  847  awk -F, 'NR>1{print $2}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  848  clear
+  849  clear
+  850  rm a13.txt 
+  851  ls
+  852  script a13.txt
+  853  rm a13.txt
+  854  awk -F 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  855  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  856  awk -F 'NR>1{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  857  awk -F, 'NR>1{print $4}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  858  awk -F, 'NR>1{print $2}' downloaded_hashtags_extend.csv |sort -u |wc -l
+  859  echo $HOME
+  860  ls
+  861  cd A1/
+  862  ls
+  863  cat a13.txt
+  864  git add -A
+  865  git commit -m "final changes"
+  866  git push
+  867  nano a13.txt 
+  868  rm a13.txt 
+  869  script a13.txt
+  870  nano a13.txt 
+  871  rm a13.txt 
+  872  awk -F, 'NR>1{print $1}' downloaded_hashtags_extend.csv |sort -u |wc -i
+  873  script a13.txt
+  874  clear
+  875  script a13.txt
+  876  nano a13.txt 
+  877  git add -A
+  878  git commit -m "final changes"
+  879  git push
+  880  git pull
+  881  cd ..
+  882  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+  883  $echo HOME
+  884  $echo home
+  885  echo $home
+  886  cd
+  887  cd ..
+  888  pwd
+  889  echo $hoem
+  890  cd
+  891  echo home
+  892  echo $HOME
+  893  clear 
+  894  cd A1/
+  895  script a2.txt
+  896  cat a2.txt 
+  897  nano a2.txt 
+  898  iconv -f utf-8 -t ascii//TRANSLIT downloaded_hashtags_extend.csv > a12.txt
+  899  cat a12.txt 
+  900  ls
+  901  cd A1/
+  902  clear
+  903  git add -A 
+  904  clear
+  905  git commit -m "final changes"
+  906  git push
+  907  git log
+  908  commands
+  909  history
+  910  grep -i -c great downloaded_hashtags_extend.csv
+  911  cd A1/
+  912  grep -i -c great downloaded_hashtags_extend.csv
+  913  nano a10.txt 
+  914  clear
+  915  cd ..
+  916  ls
+  917  mkdir Worksheet2
+  918  git init
+  919  cd Worksheet2/
+  920  git init
+  921  git comit -m "first commit"
+  922  git commit -m "first commit"
+  923  cd ../A1/
+  924  git commit -m "final changes"
+  925  git add -A
+  926  git commit -m "final changes"
+  927  git push
+  928  cd A1/
+  929  ls
+  930  cd ..
+  931  ls
+  932  cd Worksheet2/
+  933  ls
+  934  gunzip amazon_reviews_us_Books_v1_02.tsv.gz 
+  935  ls
+  936  gunzip amazon_reviews_us_Books_v1_02.tsv.gz 
+  937  ls
+  938  clear
+  939  ls
+  940  mv amazon_reviews_us_Books_v1_02.tsv Worksheet2/
+  941  ls
+  942  cd Worksheet
+  943  cd Worksheet2
+  944  ls
+  945  git init
+  946  git add amazon_reviews_us_Books_v1_02.tsv 
+  947  ls
+  948  rm amazon_reviews_us_Books_v1_02.tsv 
+  949  ls
+  950  clear
+  951  cd ..
+  952  ls
+  953  clear
+  954  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+  955  ls
+  956  gunzip amazon_reviews_us_Books_v1_02.tsv.gz 
+  957  grep verified amazon_reviews_us_Books_v1_02.tsv 
+  958  grep "verified" amazon_reviews_us_Books_v1_02.tsv 
+  959  grep unverified amazon_reviews_us_Books_v1_02.tsv 
+  960  wc amazon_reviews_us_Books_v1_02.tsv 
+  961  wc verified amazon_reviews_us_Books_v1_02.tsv 
+  962  clear
+  963  grep -n verified a
+  964  grep -n "verified" amazon_reviews_us_Books_v1_02.tsv 
+  965  grep -o "verified" amazon_reviews_us_Books_v1_02.tsv 
+  966  grep -o -i "verified" amazon_reviews_us_Books_v1_02.tsv 
+  967  grep -o -c "verified" amazon_reviews_us_Books_v1_02.tsv 
+  968  grep -o -c "unverified" amazon_reviews_us_Books_v1_02.tsv 
+  969  wc -l -m amazon_reviews_us_Books_v1_02.tsv 
+  970  ls
+  971  cd Worksheet2
+  972  ls
+  973  cd ../Testing/
+  974  ls
+  975  git add -A
+  976  ls
+  977  nano count.txt 
+  978  ls
+  979  head count.txt 
+  980  cp count.txt Worksheet2
+  981  ls
+  982  cd Worksheet
+  983  cd Worksheet2
+  984  ls
+  985  history > cmds.log

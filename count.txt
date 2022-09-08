@@ -1,0 +1,10 @@
+1. Number of verified reviews 
+1439
+2. Number of unverified reviews 
+99
+
+3. Number of lines  (wc -l) 
+3105521 amazon_reviews_us_Books_v1_02.tsv
+
+4.Number of Words (wc -w)  
+550169767 amazon_reviews_us_Books_v1_02.tsv
